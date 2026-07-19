@@ -4,8 +4,6 @@
 
 **MEng CS @EURECOM · Saas Builder · AI Systems**
 
-<br>
-
 [![EURECOM](https://img.shields.io/badge/EURECOM-Mines--Télécom_Network-009FE3?style=for-the-badge&logoColor=white)](https://www.eurecom.fr/fr)
 [![EDHEC](https://img.shields.io/badge/EDHEC-GETT_Double_Degree-A6093D?style=for-the-badge&logoColor=white)](https://www.edhec.edu/fr/programmes/grande-ecole/filieres/global-economic-transformation-and-technology)
 
@@ -15,11 +13,7 @@
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## About
 
@@ -31,11 +25,7 @@ I care about shipping software that people actually use. Most of what I build st
 - **Machine learning** — training and evaluating predictive models, from feature engineering to serving them behind a production API
 - **Backend & systems** — FastAPI services, REST API design, relational data modelling, containerised deployments
 
-<br>
-
 ---
-
-<br>
 
 ## Projects
 
@@ -46,11 +36,7 @@ I care about shipping software that people actually use. Most of what I build st
 | [**RAG vs GraphRAG Hallucination Analysis**](https://github.com/RP-13-p/GraphRAG-Hallucination-Analysis) | EURECOM research project benchmarking Vector RAG against GraphRAG architectures to reduce hallucinations in LLMs | Python · Neo4j · FAISS · LLMs |
 | [**Real Estate Estimation**](https://github.com/RP-13-p/RealEstate_Price)| Web tool estimating Parisian property values from historical transaction data, pairing a trained price model with a mapping interface |Scikit-learn · Nominatim API |
 
-<br>
-
 ---
-
-<br>
 
 ## Tech Stack
 
@@ -70,11 +56,7 @@ I care about shipping software that people actually use. Most of what I build st
 
 `SQL` | `LangChain` | `Vertex AI` | `Neo4j` | `FAISS` 
 
-<br>
-
 ---
-
-<br>
 
 
 <div align="center">
