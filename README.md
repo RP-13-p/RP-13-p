@@ -8,9 +8,7 @@
 [![EDHEC](https://img.shields.io/badge/EDHEC-GETT_Double_Degree-A6093D?style=for-the-badge&logoColor=white)](https://www.edhec.edu/fr/programmes/grande-ecole/filieres/global-economic-transformation-and-technology)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-partouche-pi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-partouche-325709208)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael.partouche@eurecom.fr)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/raphael-partouche-325709208/)
 </div>
 
 ---
